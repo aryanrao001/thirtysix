@@ -2,8 +2,7 @@ import React, { useEffect } from 'react'
 import Canva from './components/Canva'
 import data from './data'
 import LocomotiveScroll from 'locomotive-scroll';
-import Navbar from './components/navbar';
-
+import Navbar from './components/Navbar';
 
 const App = () => {
 
